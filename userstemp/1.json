@@ -1,0 +1,280 @@
+{
+    "data": {
+        "profiles": [
+            {
+                "id": "486709",
+                "uuid": "81559992-29c5-459d-9937-e5e8adca6cea",
+                "username": null,
+                "displayName": "Rainy",
+                "age": 34,
+                "location": {
+                    "type": "gps",
+                    "distance": 5,
+                    "place": {
+                        "id": "2334",
+                        "place": "Los Angeles",
+                        "region": "California",
+                        "country": null,
+                        "countryCode": "US",
+                        "longitude": null,
+                        "latitude": null
+                    },
+                    "homePlace": {
+                        "id": "2334",
+                        "place": "Los Angeles",
+                        "region": "California",
+                        "country": null,
+                        "countryCode": "US",
+                        "longitude": null,
+                        "latitude": null
+                    }
+                },
+                "bio": {
+                    "biography": "Hi im Rainy! Hoping to make more local friends but happy to meet furs from all over!\n\nI work in the games and entertainment industry, and travel around the world to meet cool people.\n\nI like to hike, urban or wilderness, and take photographs! I'm not very good but I think it's fun and it gets me out more. I like hanging out in VR with friends too, but my social anxiety still sneaks up every so often, but I'm doing better!!\n\nI'm based out of LA but travel a lot for work, so my location might always be different  (if you happen to be on barq in an airport and notice me nearby, reach out. I have most lounge access and can bring in a few guests sometimes \ud83d\udc40)",
+                    "relationshipStatus": "single",
+                    "sexualOrientation": "asexual",
+                    "genders": [
+                        "Male"
+                    ],
+                    "hobbies": [
+                        {
+                            "id": "31",
+                            "interest": "Hiking"
+                        },
+                        {
+                            "id": "71",
+                            "interest": "Traveling "
+                        },
+                        {
+                            "id": "129",
+                            "interest": "Photography"
+                        },
+                        {
+                            "id": "295",
+                            "interest": "VRChat"
+                        },
+                        {
+                            "id": "313",
+                            "interest": "Game Development"
+                        },
+                        {
+                            "id": "454",
+                            "interest": "Virtual Reality "
+                        },
+                        {
+                            "id": "2704",
+                            "interest": "Exploring New Places"
+                        }
+                    ]
+                },
+                "profileImage": {
+                    "id": "1740635",
+                    "image": {
+                        "id": "2067920",
+                        "uuid": "3c145762-fd33-4b5e-a293-463e14e819da",
+                        "url": "https://assets.barq.app/image/3c145762-fd33-4b5e-a293-463e14e819da.png",
+                        "contentRating": "safe"
+                    },
+                    "accessPermission": "public"
+                },
+                "socialAccounts": [
+                    {
+                        "id": "486709000000",
+                        "socialNetwork": "telegram",
+                        "isVerified": false,
+                        "url": null,
+                        "displayName": "-",
+                        "value": "Mutuals Only",
+                        "accessPermission": "mutuals"
+                    },
+                    {
+                        "id": "486709000001",
+                        "socialNetwork": "bluesky",
+                        "isVerified": false,
+                        "url": "https://bsky.app/profile/rainythedeer.com",
+                        "displayName": "rainythedeer.com",
+                        "value": "rainythedeer.com",
+                        "accessPermission": "public"
+                    }
+                ],
+                "groups": []
+            },
+            {
+                "id": "882164",
+                "uuid": "8958c6d7-291b-4d3a-a39b-7198f45f613c",
+                "username": "HowlingWolf",
+                "displayName": "Howling",
+                "age": 21,
+                "location": {
+                    "type": "gps",
+                    "distance": 6,
+                    "place": {
+                        "id": "2334",
+                        "place": "Los Angeles",
+                        "region": "California",
+                        "country": null,
+                        "countryCode": "US",
+                        "longitude": null,
+                        "latitude": null
+                    },
+                    "homePlace": null
+                },
+                "bio": {
+                    "biography": "I love to play games with friends, I streammm, I\u2019m learning to draw, and learning how to create/make 3D designs in blender, I LOVE music, I love to play sports, and I like to meet new people! \n\n-oh and I like to talk a lot \ud83d\ude05\n\nAdd me on telegram! - @HowlingWolf",
+                    "relationshipStatus": "engaged_married",
+                    "sexualOrientation": "bisexual",
+                    "genders": [
+                        "Male"
+                    ],
+                    "hobbies": [
+                        {
+                            "id": "33",
+                            "interest": "Music"
+                        },
+                        {
+                            "id": "90",
+                            "interest": "Movies"
+                        },
+                        {
+                            "id": "295",
+                            "interest": "VRChat"
+                        }
+                    ]
+                },
+                "profileImage": {
+                    "id": "1815244",
+                    "image": {
+                        "id": "2156026",
+                        "uuid": "e7315fa2-81c9-4d6f-88d7-7cce2f844cb0",
+                        "url": "https://assets.barq.app/image/e7315fa2-81c9-4d6f-88d7-7cce2f844cb0.jpeg",
+                        "contentRating": "safe"
+                    },
+                    "accessPermission": "public"
+                },
+                "socialAccounts": [],
+                "groups": [
+                    {
+                        "group": {
+                            "id": "962",
+                            "uuid": "0f8cd6b6-b8b2-40fd-9c74-f1e5d03a8514",
+                            "displayName": "Music lovers",
+                            "isAd": false,
+                            "contentRating": null,
+                            "image": {
+                                "id": "69628",
+                                "uuid": "6f4721c8-9043-487d-9afa-1680ac61644f",
+                                "url": "https://assets.barq.app/image/6f4721c8-9043-487d-9afa-1680ac61644f.jpeg",
+                                "contentRating": null
+                            }
+                        }
+                    },
+                    {
+                        "group": {
+                            "id": "1106",
+                            "uuid": "79657121-61d4-4593-ad69-7be890ab08dd",
+                            "displayName": "Classical Musicians",
+                            "isAd": false,
+                            "contentRating": null,
+                            "image": {
+                                "id": "84198",
+                                "uuid": "2a4dd3ca-577b-4393-977a-3e65fdbffa12",
+                                "url": "https://assets.barq.app/image/2a4dd3ca-577b-4393-977a-3e65fdbffa12.jpeg",
+                                "contentRating": null
+                            }
+                        }
+                    },
+                    {
+                        "group": {
+                            "id": "423",
+                            "uuid": "2f7e7098-76ce-4756-a910-43ba48db23f5",
+                            "displayName": "Bisexual Furs",
+                            "isAd": false,
+                            "contentRating": null,
+                            "image": {
+                                "id": "26457",
+                                "uuid": "847252c5-ba24-4d79-a64f-afbc94334bba",
+                                "url": "https://assets.barq.app/image/847252c5-ba24-4d79-a64f-afbc94334bba.jpeg",
+                                "contentRating": null
+                            }
+                        }
+                    },
+                    {
+                        "group": {
+                            "id": "154",
+                            "uuid": "f45934f6-17a9-4c66-91f2-c5056a3a74f0",
+                            "displayName": "Discord furs",
+                            "isAd": false,
+                            "contentRating": null,
+                            "image": {
+                                "id": "11609",
+                                "uuid": "0fed95f3-409c-493b-955b-67d8fa06d806",
+                                "url": "https://assets.barq.app/image/0fed95f3-409c-493b-955b-67d8fa06d806.jpeg",
+                                "contentRating": null
+                            }
+                        }
+                    },
+                    {
+                        "group": {
+                            "id": "7",
+                            "uuid": "af6b7bfb-7cdc-4da5-bd31-45869e4ab2b4",
+                            "displayName": "Gaming",
+                            "isAd": false,
+                            "contentRating": null,
+                            "image": {
+                                "id": "95",
+                                "uuid": "9c8cb690-82b8-4205-a161-95795862fc5f",
+                                "url": "https://assets.barq.app/image/9c8cb690-82b8-4205-a161-95795862fc5f.jpeg",
+                                "contentRating": null
+                            }
+                        }
+                    },
+                    {
+                        "group": {
+                            "id": "2825",
+                            "uuid": "fd8b151d-8c66-4810-bcad-6cb37b95507c",
+                            "displayName": "Cuddle Furs",
+                            "isAd": false,
+                            "contentRating": null,
+                            "image": {
+                                "id": "135401",
+                                "uuid": "b9e66fe6-61f5-40aa-be88-a7a95eb3b7a8",
+                                "url": "https://assets.barq.app/image/b9e66fe6-61f5-40aa-be88-a7a95eb3b7a8.jpeg",
+                                "contentRating": null
+                            }
+                        }
+                    },
+                    {
+                        "group": {
+                            "id": "46",
+                            "uuid": "fd12bd27-f534-4493-ac7e-2875aa2028f7",
+                            "displayName": "VR Furs ",
+                            "isAd": false,
+                            "contentRating": null,
+                            "image": {
+                                "id": "623720",
+                                "uuid": "5940e0b3-56fe-4df3-a0a0-0d227f253ad5",
+                                "url": "https://assets.barq.app/image/5940e0b3-56fe-4df3-a0a0-0d227f253ad5.jpeg",
+                                "contentRating": "safe"
+                            }
+                        }
+                    },
+                    {
+                        "group": {
+                            "id": "1170",
+                            "uuid": "2dc6e1fe-a1a5-407a-8fe4-5482a2ebb8a2",
+                            "displayName": "Telegram Furs",
+                            "isAd": false,
+                            "contentRating": null,
+                            "image": {
+                                "id": "89122",
+                                "uuid": "1ed450e0-1e90-463a-81d4-66c502c0deb4",
+                                "url": "https://assets.barq.app/image/1ed450e0-1e90-463a-81d4-66c502c0deb4.jpeg",
+                                "contentRating": null
+                            }
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
