@@ -22,3 +22,5 @@
 - get banned because you nammed two variables similarly and sent your gemini query to a user :cry:
 ## misc
 - i wrote a bunch of non needed wrappers for this and was going to add proxy support but didnt get to it
+- users or userstemp includes dumps from scanning. It includes useful information like relationship status, bio, name, userid, groups, and much more
+- MessagesArchive includes all the previous messages sent by gemini to people. Ive included examples in both. The messages exchanged are NOT the real messages exchanged with that person to protect their privacy.
