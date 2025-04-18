@@ -20,3 +20,5 @@
 - wait a few days
 - run example.py and now gemini is responding to messages sent to you by fellow barqians
 - get banned because you nammed two variables similarly and sent your gemini query to a user :cry:
+## misc
+- i wrote a bunch of non needed wrappers for this and was going to add proxy support but didnt get to it
