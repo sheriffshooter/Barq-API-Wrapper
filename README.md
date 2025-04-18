@@ -1,4 +1,4 @@
-## What the hell is this?
+## What the is this?
 - This is a wrapper for the barq api.
 - It includes the wrapper, an account manager, gemini wrapper, json database wrapper, bert interactions, and more
 ## Why?
@@ -8,7 +8,7 @@
 - i tried to include what would be useful
 - there are python examples that show scraping data, interacting with people using gemini
 - there is no support, warranty, or license
-- barq uses graphql and you can get full profile information in batches of 100 (wtf??)
+- barq uses graphql and you can get full profile information in batches of 100 (wt[redacted]??)
 ## The way i set this up
 - scrape wiki for top 50 cities in the us in terms of population (geo cords included)
 - pass geo cords to barq and scan each city for about 900+ profiles
