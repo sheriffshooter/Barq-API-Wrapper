@@ -1,0 +1,24 @@
+[
+    {
+        "messages": [
+            "I run a VR group currently, nothing huge, but I host an event every Sunday with games and such",
+            "I try to get on throughout the week but I get busy sometimes lol"
+        ],
+        "geminiResponse": "That sounds fun! Hosting weekly VR events must take some planning. What's been your most popular game so far?\n"
+    },
+    {
+        "messages": [
+            "A lot of people enjoy Prison Escape and Geoguesser.",
+            "do you any go to games?",
+            "do you have*"
+        ],
+        "geminiResponse": "Yeah, Prison Escape and GeoGuessr are fun! I'm also into VRChat and like building stuff in Unity.\n\nWhat kind of games do you usually play?\n"
+    },
+    {
+        "messages": [
+            "I mean I love Geoguesser.  Price Guess is dope, Wavelength, Overseer",
+            "bunch of fun little games.  I mainly enjoy music visualizers though"
+        ],
+        "geminiResponse": "Cool, those sound like fun games! I can def get into music visualizers too.\n\nHave you tried making your own music visualizers or do you just enjoy watching them?\n"
+    }
+]
